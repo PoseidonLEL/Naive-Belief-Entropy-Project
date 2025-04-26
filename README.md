@@ -1,6 +1,6 @@
 # Naive-Belief-Entropy-LOVA
 ## Belief Entropy: A process in which the impression toward a perceived environment by a group of agents begins approaching a mutual equilibrium as those agent interact with each other. 
-LOVA is a specialized type of Content-Based Recommender System that uses sets of defined objects within an environment to develop a _favorability policy_ for events that may occur within its environment.
+LOVA is a specialized type of Recommender System that uses sets of defined objects within an environment to develop a _favorability policy_ for events that may occur within its environment.
 
 LOVA "naively" follows the rules of Belief Entropy.
 
